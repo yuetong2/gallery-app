@@ -1,0 +1,6 @@
+.polaroidEffect {
+    border-bottom-width:100px; /* Adjust the value to make the bottom border thicker */
+    border-top-width: 35px; 
+    border-right-width: 20px;/* Adjust the value to make the bottom border thicker */
+    border-left-width: 20px/* Adjust the value to make the bottom border thicker */
+  }
